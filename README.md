@@ -21,4 +21,4 @@ Quer contribuir? OI?? de novooooo
 
 ##Copyright
 
-Os direitos são todos nossos!!!
+Os direitos são todos nossos!!! Tudo nosso
