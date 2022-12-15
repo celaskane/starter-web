@@ -9,6 +9,7 @@
 # THANKS
 
     <name>
+	obrigado a todos os amigos
 
 # TECHNOLOGY COLOPHON
 
