@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
-Deploy??? como vamos fazê-lo?
+Deploy??? como vamos fazê-lo??
 
 ##How To Contribute
+
+Quer contribuir? OI??
