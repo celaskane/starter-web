@@ -17,3 +17,7 @@ Deploy??? como vamos fazê-lo??
 ##How To Contribute
 
 Quer contribuir? OI??
+
+##Copyright
+
+Os direitos são todos meus
