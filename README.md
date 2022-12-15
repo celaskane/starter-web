@@ -20,4 +20,4 @@ Quer contribuir? OI?? de novooooo
 
 ##Copyright
 
-Os direitos são todos meus
+Os direitos são todos nossos!!!
